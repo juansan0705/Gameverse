@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Gameverse</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="transitionname_picture">transitionnamepicture</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="select_title_prompt">Selecciona un título</string>
+    <string-array name="autoCompleteAdapter">
+        <item>A Way Out</item>
+        <item>Among Us</item>
+        <item>Animal Crossing: New Horizons</item>
+        <item>Apex Legends</item>
+        <item>Assassins Creed Brotherhood</item>
+        <item>Assassins Creed Odisey</item>
+        <item>Assassins Creed Valhalla</item>
+        <item>Bayonetta 2</item>
+        <item>Battlefield 1</item>
+        <item>Battlefield 2</item>
+        <item>Battlefield 3</item>
+        <item>Battlefield 4</item>
+        <item>Battlefield 2042</item>
+        <item>BioShock</item>
+        <item>Bioshock Infinite</item>
+        <item>Bloodborne</item>
+        <item>Borderlands 3</item>
+        <item>Breath of the Wild</item>
+        <item>Call of Duty: Black Ops Cold War</item>
+        <item>Call of Duty: Warzone</item>
+        <item>Celeste</item>
+        <item>Counter-Strike: Global Offensive</item>
+        <item>Cuphead</item>
+        <item>Cyberpunk 2077</item>
+        <item>Darksiders Genesis</item>
+        <item>Dark Souls II</item>
+        <item>Dark Souls III</item>
+        <item>Days Gone</item>
+        <item>Dead by Daylight</item>
+        <item>Death Stranding</item>
+        <item>Deathloop</item>
+        <item>Destiny 2</item>
+        <item>Devil May Cry 5</item>
+        <item>Detroit: Become Human</item>
+        <item>Disco Elysium</item>
+        <item>Dishonored 2</item>
+        <item>Diablo I</item>
+        <item>Diablo II</item>
+        <item>Diablo III</item>
+        <item>Diablo IV</item>
+        <item>Doom (2016)</item>
+        <item>Doom Eternal</item>
+        <item>Dragon Age: Inquisition</item>
+        <item>Dragon Ball FighterZ</item>
+        <item>Dragon Ball Z: Kakarot</item>
+        <item>Dragon Quest XI</item>
+        <item>Enter the Gungeon</item>
+        <item>Fall Guys: Ultimate Knockout</item>
+        <item>Fallout 4</item>
+        <item>Far Cry 6</item>
+        <item>FIFA 22</item>
+        <item>Final Fantasy VII Remake</item>
+        <item>Final Fantasy XIV</item>
+        <item>Forza Horizon 4</item>
+        <item>Gears of War 5</item>
+        <item>Ghost of Tsushima</item>
+        <item>God of War</item>
+        <item>Grand Theft Auto V</item>
+        <item>Hades</item>
+        <item>Halo Infinite</item>
+        <item>Horizon Zero Dawn</item>
+        <item>Injustice 2</item>
+        <item>League of Legends</item>
+        <item>Mario Kart 8 Deluxe</item>
+        <item>Minecraft</item>
+        <item>Mortal Kombat 11</item>
+        <item>Mortal Kombat X</item>
+        <item>Nier: Automata</item>
+        <item>Overwatch</item>
+        <item>Persona 5</item>
+        <item>PlayerUnknowns Battlegrounds</item>
+        <item>Pokémon Sword and Shield</item>
+        <item>Ratchet and Clank: Rift Apart</item>
+        <item>Red Dead Redemption 2</item>
+        <item>Resident Evil 2 Remake</item>
+        <item>Resident Evil 3 Remake</item>
+        <item>Resident Evil Village</item>
+        <item>Sekiro: Shadows Die Twice</item>
+        <item>Skyrim</item>
+        <item>Splatoon 2</item>
+        <item>Star Wars Jedi: Fallen Order</item>
+        <item>Super Mario Odyssey</item>
+        <item>Tekken 7</item>
+        <item>The Elder Scrolls Online</item>
+        <item>The Last of Us Part II</item>
+        <item>The Legend of Zelda: Breath of the Wild</item>
+        <item>The Legend of Zelda: Links Awakening</item>
+        <item>The Outer Worlds</item>
+        <item>The Witcher 3: Wild Hunt</item>
+        <item>Titanfall 2</item>
+        <item>Uncharted 4: A Thiefs End</item>
+        <item>Valorant</item>
+        <item>Watch Dogs: Legion</item>
+        <item>World of Warcraft</item>
+        <item>Yakuza: Like a Dragon</item>
+    </string-array>
+</resources>
